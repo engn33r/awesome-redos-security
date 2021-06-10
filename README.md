@@ -109,16 +109,16 @@ To Do: Group CVEs by year, possibly sort by CVE ID or programming language
 To Do: Compare these tools against the real world CVEs listed above to find the
 strengths and weaknesses of each tool. Or is there a "best" tool?
 
-https://github.com/doyensec/regexploit (last commit in 2021)
-https://www.regexbuddy.com/debug.html (last updated in 2021)
-https://github.com/jkutner/saferegex (last commit in 2020)
-https://github.com/n4o847/seccamp-redos (last commit in 2020)
-https://github.com/NicolaasWeideman/RegexStaticAnalysis (last commit in 2020)
-https://github.com/davisjam/vuln-regex-detector (last commit in 2019)
-https://github.com/gagyibenedek/ReDoS-checker (last commit in 2018)
-https://github.com/jagracey/RegEx-DoS (last commit in 2016)
-https://github.com/olivo/redos-detector (last commit in 2016)
-https://www.cs.bham.ac.uk/~hxt/research/rxxr.shtml (last updated in 2013)
+- https://github.com/doyensec/regexploit (last commit in 2021)
+- https://www.regexbuddy.com/debug.html (last updated in 2021)
+- https://github.com/jkutner/saferegex (last commit in 2020)
+- https://github.com/n4o847/seccamp-redos (last commit in 2020)
+- https://github.com/NicolaasWeideman/RegexStaticAnalysis (last commit in 2020)
+- https://github.com/davisjam/vuln-regex-detector (last commit in 2019)
+- https://github.com/gagyibenedek/ReDoS-checker (last commit in 2018)
+- https://github.com/jagracey/RegEx-DoS (last commit in 2016)
+- https://github.com/olivo/redos-detector (last commit in 2016)
+- https://www.cs.bham.ac.uk/~hxt/research/rxxr.shtml (last updated in 2013)
 
 ------
 
