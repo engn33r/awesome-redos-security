@@ -34,8 +34,6 @@ regular expressions. This information was manually collected using the
 [NVD CVE database](https://nvd.nist.gov/vuln/search) with queries such as
 "regex dos", "regex backtrack", and "regular expression denial of service". Other useful lists include [this list](https://github.com/sola-da/ReDoS-vulnerabilities) from TU Darmstadt, [this list](https://github.com/yetingli/PoCs) from Yeting Li, and [this list](https://github.com/doyensec/regexploit#trophy-bugs-reported-trophy) from Doyensec.
 
-To Do: Group CVEs by year, possibly sort by CVE ID or programming language
-
 | CVE | Vulnerable Project | Main Project Language | Fix Commit | Related Links | Advisories |
 | :-- | :----------------- | :------- | :--------- | :------- | :------- |
 | [CVE-2021-21254](https://nvd.nist.gov/vuln/detail/CVE-2021-21254) | [ckeditor5](https://github.com/ckeditor/ckeditor5) | JavaScript | [5ba3bf5](https://github.com/ckeditor/ckeditor5/commit/5ba3bf5f418e846b74f67e6c29b4aebdbd7ceaab) | | [Advisory](https://github.com/ckeditor/ckeditor5/security/advisories/GHSA-hgmg-hhc8-g5wr) |
