@@ -20,9 +20,12 @@ Contributions are welcome! Updates with new CVEs are particularly helpful.
 
 ## Table of Contents
 
-- [ReDoS CVEs](#redos-cves)
-- [ReDoS Tools](#redos-tools)
-- [ReDoS Vulnerable Expressions Lists](#redos-vulnerable-expressions-lists)
+- [Awesome ReDoS Security](#awesome-redos-security)
+	- [Contributions](#contributions)
+	- [Table of Contents](#table-of-contents)
+	- [ReDoS CVEs](#redos-cves)
+	- [ReDoS Tools](#redos-tools)
+	- [ReDoS Vulnerable Expressions Lists](#redos-vulnerable-expressions-lists)
 
 ------
 
@@ -114,7 +117,7 @@ regular expressions. This information was manually collected using the
 | [CVE-2016-10527](https://nvd.nist.gov/vuln/detail/CVE-2016-10527) | [riot compiler](https://github.com/riot/compiler) | JavaScript | [c033d2c](https://github.com/riot/compiler/commit/c033d2c63c06fafdaf8b2cdac918c408e8c29166) [783521c](https://github.com/riot/compiler/commit/783521c0aec7dad07040371fef3dbfba0b7a8df9) | [Related Issue](https://github.com/riot/riot/issues/1511) |  |
 | [CVE-2016-10540](https://nvd.nist.gov/vuln/detail/CVE-2016-10540) | [minimatch](https://github.com/isaacs/minimatch) | JavaScript | [6944abf](https://github.com/isaacs/minimatch/commit/6944abf9e0694bd22fd9dad293faa40c2bc8a955) | | |
 | [CVE-2014-3538](https://nvd.nist.gov/vuln/detail/CVE-2014-3538) | [file](https://github.com/file/file) | C | [4a284c8](https://github.com/file/file/commit/4a284c89d6ef11aca34da65da7d673050a5ea320) [71a8b6c](https://github.com/file/file/commit/71a8b6c0d758acb0f73e2e51421a711b5e9d6668) |  |  |
-| [npm:underscore.string:20170908](https://snyk.io/vuln/npm:underscore.string:20170908) | [underscore.string](https://github.com/esamattis/underscore.string) | JavaScript | [PR #517](https://github.com/esamattis/underscore.string/pull/517) | [PoC](https://github.com/sola-da/ReDoS-vulnerabilities/blob/master/test-underscore-string.js) |  |
+| [npm:underscore.string:20170908](https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARS-480292) | [underscore.string](https://github.com/esamattis/underscore.string) | JavaScript | [PR #517](https://github.com/esamattis/underscore.string/pull/517) | [PoC](https://github.com/sola-da/ReDoS-vulnerabilities/blob/master/test-underscore-string.js) |  |
 | [npm:mobile-detect:20170907](https://snyk.io/vuln/npm:mobile-detect:20170907)  | [mobile-detect](https://github.com/hgoebl/mobile-detect.js) | JavaScript | [7222f6e](https://github.com/hgoebl/mobile-detect.js/commit/7222f6e75cf8cd90e1dc53e445716203eaf79d8a) | [PoC](https://github.com/sola-da/ReDoS-vulnerabilities/blob/master/test-mobile-detect.js) | |
 | [SNYK-JS-ISMOBILEJS-72624](https://snyk.io/vuln/SNYK-JS-ISMOBILEJS-72624) | [ismobilejs](https://github.com/kaimallea/isMobile) | JavaScript | [PR #77](https://github.com/kaimallea/isMobile/pull/77) | [Issue #66](https://github.com/kaimallea/isMobile/issues/66) [PoC](https://github.com/sola-da/ReDoS-vulnerabilities/blob/master/test-ismobilejs.js) | |
 
@@ -134,7 +137,7 @@ strengths and weaknesses of each tool. Or is there a "best" tool?
 - https://github.com/gagyibenedek/ReDoS-checker (last commit in 2018)
 - https://github.com/jagracey/RegEx-DoS (last commit in 2016)
 - https://github.com/olivo/redos-detector (last commit in 2016)
-- https://www.cs.bham.ac.uk/~hxt/research/rxxr.shtml (last updated in 2013)
+- https://web.archive.org/web/20200825222652/https://www.cs.bham.ac.uk/~hxt/research/rxxr.shtml (last updated in 2013)
 
 ------
 
