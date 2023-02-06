@@ -18,15 +18,15 @@ Contributions are welcome! Updates with new CVEs are particularly helpful.
 
 ------
 
-## Contents
+## Table of Contents
 
-- [ReDoS CVEs](#ReDoS_CVEs)
-- [ReDoS Tools](#ReDoS_Tools)
-- [ReDoS Vulnerable Expressions Lists](#ReDoS_Expressions)
+- [ReDoS CVEs](#redos-cves)
+- [ReDoS Tools](#redos-tools)
+- [ReDoS Vulnerable Expressions Lists](#redos-vulnerable-expressions-lists)
 
 ------
 
-## <a name="ReDoS_CVEs"></a>ReDoS CVEs
+## ReDoS CVEs
 
 This table captures a list of real-world security issues along with the actual
 commit showing the before (vulnerable) and after (presumably not vulnerable)
@@ -120,7 +120,7 @@ regular expressions. This information was manually collected using the
 
 ------
 
-## <a name="ReDoS_Tools"></a>ReDoS Tools
+## ReDoS Tools
 
 To Do: Compare these tools against the real world CVEs listed above to find the
 strengths and weaknesses of each tool. Or is there a "best" tool?
@@ -138,6 +138,6 @@ strengths and weaknesses of each tool. Or is there a "best" tool?
 
 ------
 
-## <a name="ReDoS_Expressions"></a>ReDoS Vulnerable Expressions Lists
+## ReDoS Vulnerable Expressions Lists
 - https://owasp.org/www-community/OWASP_Validation_Regex_Repository
 - https://github.com/EnDe/ReDoS/blob/master/ReDoS.txt
