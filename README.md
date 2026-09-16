@@ -144,9 +144,11 @@ strengths and weaknesses of each tool. Or is there a "best" tool?
 - https://github.com/jagracey/RegEx-DoS (last commit in 2016)
 - https://github.com/olivo/redos-detector (last commit in 2016)
 - https://web.archive.org/web/20200825222652/https://www.cs.bham.ac.uk/~hxt/research/rxxr.shtml (last updated in 2013)
+- https://github.com/aurelio-nakamura/redosray (finds ReDoS-vulnerable regexes in JS/TS/Python, then dynamically confirms each by generating the exact input that hangs it and measuring the timing curve; actively maintained, 2026)
 
 ------
 
 ## ReDoS Vulnerable Expressions Lists
 - https://owasp.org/www-community/OWASP_Validation_Regex_Repository
 - https://github.com/EnDe/ReDoS/blob/master/ReDoS.txt
+- https://github.com/aurelio-nakamura/redos-db (self-verifying catalogue of real-world ReDoS CVEs — each entry pins the vulnerable regex, an attack string, the fix commit, and a measured timing curve; actively maintained, 2026)
