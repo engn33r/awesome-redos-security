@@ -135,6 +135,7 @@ To Do: Compare these tools against the real world CVEs listed above to find the
 strengths and weaknesses of each tool. Or is there a "best" tool?
 
 - https://github.com/doyensec/regexploit (last commit in 2021)
+- https://regextester.dev (web-based regex tester with runtime catastrophic backtracking detection on real WASM engines, plus verified one-click safe rewrites)
 - https://www.regexbuddy.com/debug.html (last updated in 2021)
 - https://github.com/jkutner/saferegex (last commit in 2020)
 - https://github.com/n4o847/seccamp-redos (last commit in 2020)
